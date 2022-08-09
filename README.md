@@ -1,6 +1,6 @@
 # Myopia Clusters
 
-![Myopia](myopia-image.jpg?raw=true "Myopia")
+![Myopia](myopia-image.jpeg?raw=true "Myopia")
 
 ## Background
 
