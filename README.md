@@ -15,5 +15,5 @@ You have been provided with raw data, so you’ll first need to process it to fi
 * Part 3: Perform a Cluster Analysis with K-means
     * Find the optimal amount of classes (clusters) (see jupyter notebook)
 * Part 4: Make a Recommendation
-    * Based on the elbow curve, the optimal number of clusters for this analysis is three.
-    * **Recommendation**: Use the 3 separate clusters for further analysis to see if the distinct groups provide better results than the whole dataset.
+    * Based on the elbow curve, the optimal number of clusters for this analysis is not clear. There appears to be a gradual bend between k=2 and k=4, but it is not a clear enough bend to discern an optimal k-value.
+    * **Recommendation**: Re-visit dataset with domain expert. There may be unneeded feature columns that could be dropped, or it may be a case of needing more data prior to re-evaluating the model.
